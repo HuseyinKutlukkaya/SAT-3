@@ -1,8 +1,7 @@
-# SAT-3
-Oluşturulma tarihi:12 ‎Aralık ‎2017 ‎
+#SAT-3
+Created On:12 ‎December 2017 ‎
 
-# SAT3 NEDİR?
-Sat3 girilen boolean fonksiyonuna 1 ve 0 değerleri verilerek sonucun 1 olup olamayacağını kontrol eder.
-Örneğin a+b' ifadesi için a=1 b=0 değerleri için sonuç 1 olur ama a+a' ifadesi için sonucu 1 yapan herhangi bir  kombinasyon yoktur.
-Sat np complete olduğu ispat edilen  ilk problemdir.Sat3 problemleri için bilinen efektif bir algoritma yoktur ve genel olarak bu düşünceye inanılmaktadır ama bu düşünce matematiksel olarak kanıtlanmamıştır.
-
+# WHAT IS SAT3?
+Sat3 checks whether the result can be 1 by giving 1 and 0 values to the entered boolean function.
+For example, for the expression a+b' the result would be 1 for values a=1 b=0, but there is no combination that would make the result 1 for the expression a+a'.
+Sat np is the first issue proven to be complete. There is no known effective algorithm for Sat3 problems and this idea is generally believed but not proven mathematically.
